@@ -1,4 +1,4 @@
-# FingerPrintDetector
+
 # Fingerprint Matching Using SIFT and FLANN
 
 This project demonstrates fingerprint matching using the SIFT (Scale-Invariant Feature Transform) algorithm and FLANN (Fast Library for Approximate Nearest Neighbors) matcher. The goal is to find the best match for an altered fingerprint from a set of real fingerprints.
