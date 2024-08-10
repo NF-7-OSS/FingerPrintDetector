@@ -1,6 +1,7 @@
 import os
 import cv2
 
+# before Adding the Path here . please download the dataset form kaggle . Dataset Name is "SOCOFing".Then Upload into the project folder then add the path
 sample = cv2.imread("SOCO__FINGERS/Altered_1/Altered-Hard_1/150__M_Right_index_finger_Obl.BMP")
 
 """
